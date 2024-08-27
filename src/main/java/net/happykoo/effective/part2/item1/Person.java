@@ -1,6 +1,6 @@
 package net.happykoo.effective.part2.item1;
 
-class Person {
+public class Person {
     private String name;
     private String address;
 

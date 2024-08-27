@@ -1,9 +1,10 @@
 package net.happykoo.effective.part2.item1;
 
-import java.sql.DriverManager;
+import org.junit.jupiter.api.Test;
 
-public class Main {
-    public static void main(String[] args) {
+public class ItemTest {
+    @Test
+    public void test() {
         Person person = Person.getInstance("happykoo", "seoul");
 
         //싱글톤
