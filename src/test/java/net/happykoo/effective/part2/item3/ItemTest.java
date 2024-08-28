@@ -23,8 +23,6 @@ public class ItemTest {
         Person p1 = constructor.newInstance();
         Person p2 = constructor.newInstance();
 
-        Collections
-
         assertEquals(p1, p2);
     }
 
