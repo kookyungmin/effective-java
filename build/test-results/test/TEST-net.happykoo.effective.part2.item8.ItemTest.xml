@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.happykoo.effective.part2.item8.ItemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-04T06:32:54" hostname="gugyeongmin-ui-MacBookPro.local" time="1.078">
+  <properties/>
+  <testcase name="test()" classname="net.happykoo.effective.part2.item8.ItemTest" time="1.078"/>
+  <system-out><![CDATA[Cleaner clean!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
