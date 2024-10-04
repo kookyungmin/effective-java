@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.happykoo.effective.part2.item7.ItemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-20T06:41:31" hostname="gugyeongmin-ui-MacBookPro.local" time="0.416">
+  <properties/>
+  <testcase name="test4()" classname="net.happykoo.effective.part2.item7.ItemTest" time="0.416"/>
+  <system-out><![CDATA[receive event >> Test Event
+MainActivity is destroyed
+MainActivity listener is destroyed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

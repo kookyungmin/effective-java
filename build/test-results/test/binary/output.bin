@@ -1,1 +1,3 @@
-수행시간 >>> 678ms
+receive event >> Test Event
+MainActivity is destroyed
+#MainActivity listener is destroyed

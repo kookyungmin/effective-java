@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="net.happykoo.effective.part2.item6.ItemTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-06T02:08:01" hostname="gugyeongmin-ui-MacBookPro.local" time="0.725">
-  <properties/>
-  <testcase name="autoBoxingTest()" classname="net.happykoo.effective.part2.item6.ItemTest" time="0.725"/>
-  <system-out><![CDATA[수행시간 >>> 678ms
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
